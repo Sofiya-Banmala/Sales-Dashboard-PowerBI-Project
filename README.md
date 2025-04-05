@@ -2,6 +2,8 @@
 
 ## T&EO Analytics and Insights 
 
+![Dashboard GIF](https://github.com/Sofiya-Banmala/Sales-Dashboard-PowerBI-Project/blob/main/dashboard.gif)
+
 This Power BI dashboard project was created to explore and analyze product sales performance along with customer-related insights. The process started with data cleaning, followed by building visuals that tell a complete story. It includes interactive features and smart visuals like outlier detection, key drivers, and trend analysis.
 
 ### Overview
@@ -22,10 +24,6 @@ The report focuses on:
   - **Key Influencers** to understand what drives changes in profit percentage
   - **Decomposition Tree** for drilling into product performance at a granular level
   - **Scatter Plot** with IQR-based logic for identifying profit outliers
-- **Interactive Design**:
-  - Dynamic dropdown slicers (e.g., Outlier vs Normal)
-  - Filters for Year, Month, State
-  - Hover tooltips with detailed product insights
 
 #### Main Dashboard  
 ![Main Dashboard](https://github.com/Sofiya-Banmala/Sales-Dashboard-PowerBI-Project/blob/main/sales%20dashboard.JPG)
@@ -36,15 +34,6 @@ The report focuses on:
 #### Key Influencers + Decomposition Tree  
 ![Key Influencers](https://github.com/Sofiya-Banmala/Sales-Dashboard-PowerBI-Project/blob/main/AI.JPG)
 
----
-
-### GIF Preview
-
-Here’s a quick walkthrough of the interactive dashboard in action:
-
-![Dashboard GIF](dashboard-preview.gif)
-
----
 
 ### About This Project
 
