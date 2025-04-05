@@ -4,9 +4,7 @@
 
 ![Dashboard GIF](https://github.com/Sofiya-Banmala/Sales-Dashboard-PowerBI-Project/blob/main/dashboard.gif)
 
-This project is a comprehensive Power BI dashboard developed to analyze the sales performance of products alongside customer behavior insights. The dashboard walks through the entire BI process—from cleaning and transforming raw data to building insightful visual reports and interactive experiences. It's built with a focus on clarity, interactivity, and depth in analysis.
-
----
+This project is a  Power BI sales dashboard developed to analyze the sales performance of products alongside customer behavior insights. The dashboard walks through the entire BI process from cleaning and transforming raw data to building insightful visual reports and interactive experiences. It's built with a focus on clarity, interactivity, and depth in analysis.
 
 ### Overview
 
@@ -21,8 +19,6 @@ The dashboard was created to deliver end-to-end analytics covering the following
 
 #### Main Dashboard  
 ![Main Dashboard](https://github.com/Sofiya-Banmala/Sales-Dashboard-PowerBI-Project/blob/main/sales%20dashboard.JPG)
-
----
 
 ### Key Features
 
@@ -51,20 +47,12 @@ This AI visual helps uncover what product or customer characteristics are most c
 
 Used to drill down into specific product contributions to overall profit, offering a flexible way to explore data by category or item.
 
-##### Outlier Detection (Scatter Plot + IQR Logic)
+##### Outlier Detection
 
 Profit outliers were detected using statistical logic (Interquartile Range). Products that performed far above or below the normal profit range are flagged and displayed in a separate view for anomaly tracking.
 
 ![Outlier Detection](https://github.com/Sofiya-Banmala/Sales-Dashboard-PowerBI-Project/blob/main/outlier.JPG)
 
-#### Interactive Filtering
-
-The report includes:
-- Slicers for Year, Month, and State
-- Dropdown filter to toggle between Normal and Outlier products
-- Hover tooltips with extra context like cost, category, and profit margin
-
----
 
 ### About This Project
 
@@ -76,4 +64,4 @@ This dashboard was built as part of a hands-on learning journey to sharpen my Po
 - Using Power BI’s AI capabilities for smart, guided analysis
 - Applying statistical logic to detect outliers and patterns
 
-The project showcases a full-cycle analytics process—from data prep to insights delivery—and is part of my growing portfolio in business intelligence and reporting.
+The project showcases a full-cycle analytics process from data prep to insights delivery and is part of my growing portfolio in business intelligence and reporting.
