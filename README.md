@@ -19,6 +19,9 @@ The dashboard was created to deliver end-to-end analytics covering the following
 - **Key Profit Drivers**: Using built-in AI visuals, the report identifies what influences profit margins the most.
 - **Outlier Detection**: Implements IQR-based logic to highlight products that perform significantly outside the norm.
 
+#### Main Dashboard  
+![Main Dashboard](https://github.com/Sofiya-Banmala/Sales-Dashboard-PowerBI-Project/blob/main/sales%20dashboard.JPG)
+
 ---
 
 ### Key Features
@@ -33,40 +36,40 @@ Several custom measures were built using DAX (Data Analysis Expressions), includ
 - `Profit` = Total Sale - Total Cost
 - `%Profit` = (Profit / Cost) * 100
 - MoM% (Month-over-Month % change)
+
 These metrics help provide deeper financial insight beyond just raw sales numbers.
 
 #### Advanced Visuals
 
-- **Key Influencers**  
-  This AI visual helps uncover what product or customer characteristics are most closely associated with increases in profit percentage.
+##### Key Influencers
 
-- **Decomposition Tree**  
-  Used to drill down into specific product contributions to overall profit, offering a flexible way to explore data by category or item.
+This AI visual helps uncover what product or customer characteristics are most closely associated with increases in profit percentage.
 
-- **Outlier Detection (Scatter Plot + IQR Logic)**  
-  Profit outliers were detected using statistical logic (Interquartile Range). Products that performed far above or below the normal profit range are flagged and displayed in a separate view for anomaly tracking.
+![Key Influencers](https://github.com/Sofiya-Banmala/Sales-Dashboard-PowerBI-Project/blob/main/AI.JPG)
 
-- **Interactive Filters**  
-  Users can slice the data by Year, Month, State, Outlier Flag, and more. A clean dropdown for Outlier classification (Normal vs. Outlier) was also added to improve filtering UX.
+##### Decomposition Tree
 
----
+Used to drill down into specific product contributions to overall profit, offering a flexible way to explore data by category or item.
 
-### Screenshots
+##### Outlier Detection (Scatter Plot + IQR Logic)
 
-#### Main Dashboard  
-![Main Dashboard](https://github.com/Sofiya-Banmala/Sales-Dashboard-PowerBI-Project/blob/main/sales%20dashboard.JPG)
+Profit outliers were detected using statistical logic (Interquartile Range). Products that performed far above or below the normal profit range are flagged and displayed in a separate view for anomaly tracking.
 
-#### Outlier Detection View  
 ![Outlier Detection](https://github.com/Sofiya-Banmala/Sales-Dashboard-PowerBI-Project/blob/main/outlier.JPG)
 
-#### Key Influencers + Decomposition Tree  
-![Key Influencers](https://github.com/Sofiya-Banmala/Sales-Dashboard-PowerBI-Project/blob/main/AI.JPG)
+#### Interactive Filtering
+
+The report includes:
+- Slicers for Year, Month, and State
+- Dropdown filter to toggle between Normal and Outlier products
+- Hover tooltips with extra context like cost, category, and profit margin
 
 ---
 
 ### About This Project
 
 This dashboard was built as part of a hands-on learning journey to sharpen my Power BI skills. It offered the opportunity to practice:
+
 - Transforming and shaping data using Power Query
 - Writing DAX formulas to derive custom business metrics
 - Designing visualizations that focus on clarity and interactivity
@@ -74,5 +77,3 @@ This dashboard was built as part of a hands-on learning journey to sharpen my Po
 - Applying statistical logic to detect outliers and patterns
 
 The project showcases a full-cycle analytics process—from data prep to insights delivery—and is part of my growing portfolio in business intelligence and reporting.
-
-Feel free to clone, explore, or provide suggestions for improvement!
