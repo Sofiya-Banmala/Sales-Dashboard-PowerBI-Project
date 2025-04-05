@@ -28,13 +28,13 @@ The report focuses on:
   - Hover tooltips with detailed product insights
 
 #### Main Dashboard  
-![Main Dashboard](sales dashboard.png)
+![Main Dashboard](https://github.com/Sofiya-Banmala/Sales-Dashboard-PowerBI-Project/blob/main/sales%20dashboard.JPG)
 
 #### Outlier Detection View  
-![Outlier Detection](image2.png)
+![Outlier Detection](https://github.com/Sofiya-Banmala/Sales-Dashboard-PowerBI-Project/blob/main/outlier.JPG)
 
 #### Key Influencers + Decomposition Tree  
-![Key Influencers](image3.png)
+![Key Influencers](https://github.com/Sofiya-Banmala/Sales-Dashboard-PowerBI-Project/blob/main/AI.JPG)
 
 ---
 
@@ -50,4 +50,3 @@ Here’s a quick walkthrough of the interactive dashboard in action:
 
 This dashboard was built as part of my Power BI learning journey. It allowed me to apply end-to-end business analytics skills — from preparing data and building DAX measures to designing visuals and uncovering insights through interactivity and statistical logic.
 
-Feel free to explore, fork, or suggest improvements!
